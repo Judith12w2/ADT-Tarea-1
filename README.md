@@ -1,2 +1,4 @@
-# ADT-Tarea-1
-Tarea 1
+# TAREA 1 | Carmen y Judith
+
+## TEMA DEL GRUPO | 
+
