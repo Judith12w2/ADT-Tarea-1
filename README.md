@@ -1,2 +1,3 @@
-## TAREA 1 | Carmen y Judith | TEMA DEL GRUPO | BASE DE DATOS DE OBJETOS
+## TAREA 1 | TEMA DEL GRUPO | BASE DE DATOS DE OBJETOS
 
+Autores: Carmen y Judith
